@@ -1,0 +1,3 @@
+[ERROR] [2020-01-16 11:56:56] org.fisco.bcos.channel.client.BcosResponseCallback.onTimeout(17) | Processing bcos message timeout:{}
+[ERROR] [2020-01-16 11:57:04] org.fisco.bcos.channel.client.BcosResponseCallback.onTimeout(17) | Processing bcos message timeout:{}
+[ERROR] [2020-01-16 11:57:06] org.fisco.bcos.channel.handler.ChannelHandler.userEventTriggered(27) | event:READER_IDLE connect127.0.0.1:20200 long time Inactive，disconnect
